@@ -7,8 +7,6 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Acc0rd8&theme=tokyonight&show_icons=true&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Acc0rd8&theme=tokyonight&hide_border=true)<br/>
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Acc0rd8&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
