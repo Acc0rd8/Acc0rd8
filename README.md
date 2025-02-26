@@ -9,5 +9,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Acc0rd8&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
+![](https://komarev.com/ghpvc/?username=Acc0rd8&color=blueviolet)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Acc0rd8&theme=radical&no-frame=true&no-bg=false&margin-w=4)
